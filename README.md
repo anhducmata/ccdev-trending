@@ -1,2 +1,1 @@
-# ccdev-trending
-Trending for chuyencuadev.com 🤖
+# Trending for chuyencuadev.com
